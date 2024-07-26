@@ -26,3 +26,9 @@ docker tag dockername username/dockername
 
 docker push username/dockername
 
+### Automatic build and generation of dockerfiles
+
+docker init
+
+sudo docker compose up
+
